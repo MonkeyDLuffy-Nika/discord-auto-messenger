@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/GUI-CustomTkinter-blue?style=for-the-badge" alt="GUI" />
   <img src="https://img.shields.io/badge/Discord-Interactions_API-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="API" />
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License" />
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge" alt="License: GPL v3" /></a>
 </p>
 
 ---
@@ -90,3 +90,18 @@ A modern, standalone desktop client for automated Discord messaging, interactive
    ```bash
    python main.py
    ```
+
+---
+
+## 📄 Лицензия / License
+
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+See the [LICENSE](LICENSE) file for the full license text.
+
+Проект защищен строгой копилефт-лицензией **GNU General Public License v3.0 (GPL-3.0)**:
+- 🔓 **Открытый исходный код**: разрешено свободно изучать, модифицировать и использовать проект.
+- 🛡️ **Защита от кражи и закрытия (Copyleft)**: любые изменения, форки и производные работы **обязаны оставаться полностью открытыми, бесплатными и распространяться под той же лицензией GPL v3**.
+- 🚫 **Запрет на присвоение**: закрывать исходный код, продавать или использовать проект в закрытых коммерческих продуктах запрещено.
+- ✍️ **Указание авторства**: сохранение уведомления об авторских правах обязательно.
+
+Copyright © 2026 **Fenix** (`MonkeyDLuffy-Nika`). All rights reserved.
